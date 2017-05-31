@@ -8,7 +8,7 @@ _**NOTE:** My advisor and I are writing a paper about our results so we are not 
 
 ![schema](static/H2psi0-mps-schema.png)
 
-**Above:** Using an autoencoder-like structure to train a neural network to produce Matrix Product State (MPS) coefficients for low-energy quantum states. See page 49 of [my thesis](static/greydanus-dartmouth-thesis.pdf).
+**Above:** Using an autoencoder-like structure to train a neural network to produce Matrix Product State (MPS) coefficients for low-energy quantum states. See page 47 of [my thesis](static/greydanus-dartmouth-thesis.pdf).
 
 
 Abstract
