@@ -1,10 +1,10 @@
-psi0nn: a quantum ground state solver
+psi0nn: a neural network quantum ground state solver
 =======
 **[Sam Greydanus](https://greydanus.github.io/about.html) and [James Whitfield](http://www.jdwhitfield.com/)**
 
 _Department of Physics and Astronomy, Dartmouth College, Hanover, New Hampshire_
 
-**NOTE:** As my advisor and I are writing a paper about our results, we are not yet ready to release all of our code. This repository contains just the DMRG code, all figures, and a final pdf of the thesis itself. Later this summer I will release all code.
+_**NOTE:** My advisor and I are writing a paper about our results so we are not yet ready to release all of our code. This repository contains just the DMRG code, all figures, and a final pdf of the thesis itself. I will release all code in a few months._
 
 ![schema](static/H2psi0-mps-schema.png)
 
